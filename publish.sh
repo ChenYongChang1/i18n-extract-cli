@@ -1,0 +1,1 @@
+npm publish --registry=http://nexus.bwcjxt.com/repository/npm-snapshots/  
